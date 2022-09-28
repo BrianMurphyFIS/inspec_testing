@@ -1,0 +1,8 @@
+---
+lockfile_version: 1
+depends:
+- name: inspec-azure
+  resolved_source:
+    path: "/deps/inspec-azure.tar.gz"
+    sha256: 99433055d24debd7a7ecd903de02501b1b6e10cda88953948220030f7f1fa959
+  version_constraints: []

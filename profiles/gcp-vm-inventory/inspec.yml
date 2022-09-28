@@ -1,0 +1,8 @@
+name: gcp-vm-inventory
+title: GCP VM Inventory Profile
+version: 0.1.0
+depends:
+ - name: inspec-gcp
+   path: /deps/inspec-gcp.tar.gz
+supports:
+ - platform: gcp

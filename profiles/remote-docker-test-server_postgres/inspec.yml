@@ -1,0 +1,3 @@
+name: remote-docker-test-server
+title: Docker Profile for test-server VM
+version: 0.1.0

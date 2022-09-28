@@ -1,0 +1,8 @@
+name: Azure-environment
+title: Azure Environment Profile
+version: 0.1.0
+depends:
+ - name: inspec-azure
+   path: /deps/inspec-azure
+supports:
+ - platform: azure

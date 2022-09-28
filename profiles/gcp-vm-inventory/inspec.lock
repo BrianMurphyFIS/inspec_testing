@@ -1,0 +1,8 @@
+---
+lockfile_version: 1
+depends:
+- name: inspec-gcp
+  resolved_source:
+    path: "/deps/inspec-gcp.tar.gz"
+    sha256: 46f62a9070baefd071f54b2e926cc65005a96a4bf38fd135e34cb096d5af1663
+  version_constraints: []

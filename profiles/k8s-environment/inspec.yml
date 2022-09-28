@@ -1,0 +1,8 @@
+name: k8s-environment
+title: K8S Environment Profile
+version: 0.1.0
+depends:
+ - name: inspec-k8s
+   path: /deps/inspec-k8s
+supports:
+ - platform: k8s

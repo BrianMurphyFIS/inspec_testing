@@ -1,0 +1,7 @@
+---
+lockfile_version: 1
+depends:
+- name: inspec-azure
+  resolved_source:
+    path: "/deps/inspec-azure"
+  version_constraints: []

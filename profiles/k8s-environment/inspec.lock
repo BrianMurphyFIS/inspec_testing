@@ -1,0 +1,7 @@
+---
+lockfile_version: 1
+depends:
+- name: inspec-k8s
+  resolved_source:
+    path: "/deps/inspec-k8s"
+  version_constraints: []
